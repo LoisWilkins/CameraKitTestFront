@@ -1,2 +1,1 @@
-# CameraKitTestFront
- 
+# camera_kit_demo
